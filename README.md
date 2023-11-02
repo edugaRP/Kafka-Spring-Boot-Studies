@@ -65,4 +65,9 @@ The application should now be up and running.
 
 You can also use the command-line runner in the `KafkaApplication` class to publish messages. It publishes a number of messages with the "Hello World" prefix.
 
+
+### Documentation
+
+For more information about Spring for Apache Kafka: https://docs.spring.io/spring-kafka/docs/current/reference/html/#reference
+
 ---
